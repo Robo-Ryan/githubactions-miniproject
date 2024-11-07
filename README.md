@@ -1,2 +1,2 @@
 # githubactions-miniproject
-## testing is fun right!
+## testing is fun psych!
